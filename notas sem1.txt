@@ -1,0 +1,4 @@
+crear un archivo java
+Arraylist
+manejo de archivos de texto
+acciones propias al objeto

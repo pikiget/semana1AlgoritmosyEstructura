@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="clases.Expositor"/>
+    <fullyQualifiedTypeName name="java.awt.TextArea"/>
+    <fullyQualifiedTypeName name="clases.Trabajador"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="clases.Numeros"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="clases.Caja"/>
+    <fullyQualifiedTypeName name="clases.Equipo"/>
+</qualifiedTypeNameHistroy>
